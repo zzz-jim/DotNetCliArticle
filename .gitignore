@@ -1,3 +1,5 @@
 HeyWorld.Tests/obj/
 HeyWorld/obj/
 .vs/
+HeyWorld/bin/
+HeyWorld.Tests/bin/
